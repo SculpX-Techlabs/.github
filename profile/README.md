@@ -59,7 +59,7 @@ We offer a wide range of services tailored to meet your business needs:
    - Simplified and efficient billing systems.
    - Tailored for businesses of all sizes.
 
-![Our Services](https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.webhopers.in%2Ftop-10-digital-marketing-companies-in-delhi&psig=AOvVaw1GTm7JAMdMUmhN03FOTFZI&ust=1734700176309000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjnrqT0s4oDFQAAAAAdAAAAABAE)
+![Our Services](https://www.webhopers.in/uploads/1/digital-world-im.jpg)
 
 
 ---
