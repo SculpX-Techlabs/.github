@@ -83,8 +83,9 @@ We would love to hear from you! Connect with us today:
 ### Follow Us
 Stay updated with our latest offerings and insights:
 
-- [LinkedIn](https://linkedin.com/company/sculpx-techlabs)
-- [Instagram](https://instagram.com/sculpx_techlabs)
+- [LinkedIn](https://linkedin.com/)
+- [Instagram](https://instagram.com/)
+- [Facebook](https://facebook.com/)
 
 Let us build innovative solutions for your business today! 🚀
 
