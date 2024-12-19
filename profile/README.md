@@ -59,7 +59,9 @@ We offer a wide range of services tailored to meet your business needs:
    - Simplified and efficient billing systems.
    - Tailored for businesses of all sizes.
 
-![Our Services](https://www.webhopers.in/uploads/1/digital-world-im.jpg)
+![Digital Marketing](https://www.webhopers.in/uploads/1/digital-world-im.jpg)<br>
+<img src="https://www.webhopers.in/uploads/1/digital-world-im.jpg" alt="Digital Marketing" width="800" height="400">
+
 
 
 ---
