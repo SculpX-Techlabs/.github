@@ -1,7 +1,7 @@
 
 ## SculpX Techlabs
 
-##⚠️ Disclaimer
+## ⚠Disclaimer
 Our official website is currently under maintenance to bring you a better and more seamless experience. As a temporary measure, you have been redirected to this GitHub profile for informational purposes only.
 
 **Transforming Ideas into Digital Realities!**
