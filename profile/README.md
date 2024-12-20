@@ -1,6 +1,9 @@
 
 ## SculpX Techlabs
 
+##⚠️ Disclaimer
+Our official website is currently under maintenance to bring you a better and more seamless experience. As a temporary measure, you have been redirected to this GitHub profile for informational purposes only.
+
 **Transforming Ideas into Digital Realities!**
 
 Welcome to **SculpX Techlabs**, where innovation meets technology. We are a dynamic team of professionals dedicated to delivering cutting-edge solutions that cater to the diverse needs of businesses worldwide. At SculpX Techlabs, we aim to empower businesses by transforming ideas into impactful digital solutions.
